@@ -1,0 +1,44 @@
+{"ingredients":
+  [
+    { "id": 1,
+      "name" :"chicken",
+      "img": ""
+    },
+    { "id": 2,
+      "name" :"tomato",
+      "img": ""
+    },
+    { "id": 3,
+      "name" :"cheese",
+      "img": ""
+    },
+    { "id": 4,
+      "name" :"pasta",
+      "img": ""
+    },
+    { "id": 5,
+      "name" :"butter",
+      "img": ""
+    },
+    { "id": 6,
+      "name" :"rice",
+      "img": ""
+    },
+    { "id": 7,
+      "name" :"egg",
+      "img": ""
+    },
+    { "id": 8,
+      "name" :"shrimp",
+      "img": ""
+    },
+    { "id": 9,
+      "name" :"carrots",
+      "img": ""
+    },
+    { "id": 10,
+      "name" :"flour",
+      "img": ""
+    }
+  ]
+}
